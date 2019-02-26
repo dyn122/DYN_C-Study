@@ -151,6 +151,12 @@
     <ClCompile Include="02作用域.cpp" />
     <ClCompile Include="03C++对c的增强.cpp" />
     <ClCompile Include="04引用.cpp" />
+    <ClCompile Include="05参数传递.cpp" />
+    <ClCompile Include="06圆类学生类.cpp" />
+    <ClCompile Include="07内联函数.cpp" />
+    <ClCompile Include="08函数的默认参数和占位.cpp" />
+    <ClCompile Include="09函数重载.cpp" />
+    <ClCompile Include="10c++下的封装.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -30,5 +30,23 @@
     <ClCompile Include="04引用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05参数传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06圆类学生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07内联函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08函数的默认参数和占位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09函数重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10c++下的封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
