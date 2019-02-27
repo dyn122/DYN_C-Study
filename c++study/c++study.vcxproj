@@ -157,6 +157,9 @@
     <ClCompile Include="08函数的默认参数和占位.cpp" />
     <ClCompile Include="09函数重载.cpp" />
     <ClCompile Include="10c++下的封装.cpp" />
+    <ClCompile Include="11New的用法.cpp" />
+    <ClCompile Include="12单例模式.cpp" />
+    <ClCompile Include="13类的继承.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
