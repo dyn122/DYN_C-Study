@@ -57,5 +57,29 @@
     <ClCompile Include="13类的继承.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14多态的例子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15函数模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16模板的局限性及解决.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17类模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18类型转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19异常.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20C++的标准异常.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21标准输入流.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

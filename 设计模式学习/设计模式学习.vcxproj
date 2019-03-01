@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A60480FC-B183-4AD4-ACE2-CA9F0F74A988}</ProjectGuid>
+    <ProjectGuid>{545F8665-EFD5-40ED-8E87-A10429EC6BBC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>cstudy</RootNamespace>
+    <RootNamespace>设计模式学习</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,28 +146,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01hellowworld.cpp" />
-    <ClCompile Include="00note.cpp" />
-    <ClCompile Include="02作用域.cpp" />
-    <ClCompile Include="03C++对c的增强.cpp" />
-    <ClCompile Include="04引用.cpp" />
-    <ClCompile Include="05参数传递.cpp" />
-    <ClCompile Include="06圆类学生类.cpp" />
-    <ClCompile Include="07内联函数.cpp" />
-    <ClCompile Include="08函数的默认参数和占位.cpp" />
-    <ClCompile Include="09函数重载.cpp" />
-    <ClCompile Include="10c++下的封装.cpp" />
-    <ClCompile Include="11New的用法.cpp" />
-    <ClCompile Include="12单例模式.cpp" />
-    <ClCompile Include="13类的继承.cpp" />
-    <ClCompile Include="14多态的例子.cpp" />
-    <ClCompile Include="15函数模板.cpp" />
-    <ClCompile Include="16模板的局限性及解决.cpp" />
-    <ClCompile Include="17类模板.cpp" />
-    <ClCompile Include="18类型转换.cpp" />
-    <ClCompile Include="19异常.cpp" />
-    <ClCompile Include="20C++的标准异常.cpp" />
-    <ClCompile Include="21标准输入流.cpp" />
+    <ClCompile Include="note.cpp" />
+    <ClCompile Include="简单工厂模式.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

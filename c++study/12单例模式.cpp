@@ -24,7 +24,7 @@ public:
 private:
 	ChairMan()
 	{
-		cout << "构造调用" << endl;
+		//cout << "构造调用" << endl;
 		count = 0;
 	}
 	ChairMan(ChairMan* &b)
@@ -44,7 +44,7 @@ void test12()
 //关于.和->的区别，当直接使用类的时候，用.  使用类的地址的时候用->
 	//cout << cm.Instance() << endl;
 }
-void main()
+void main12()
 {
 	test12();
 	system("pause");
